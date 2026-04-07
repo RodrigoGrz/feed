@@ -2,27 +2,31 @@
     Feed
 </h1>
 
-## 💻 Sobre
+## 💻 About
 
-Feed é uma aplicação que simula algum tipo de rede social, onde você é capaz de criar os post, responder, e aplaudir. A idéia dessa aplicação é entender os fundamentos do ReactJS, como componentes, propriedades, estados e estilização.
+Feed is an application that simulates a social network, where you can create posts, reply to them, and applaud (like) them. The main idea of this application is to understand the fundamentals of ReactJS, such as components, props, state, and styling.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - ReactJS
 - NodeJS
-- Typescript
+- TypeScript
 - CSS Modules
 - Phosphor Icons
 - Date-FNS
 
-## 😁 Como utilizar
+## 😁 How to use
 
-Antes de mais nada, para que os comandos a seguir funcione, é necessario ter o <a href='https://nodejs.org/en/' target='_blank'>node.js</a> instalado em sua máquina.
+First of all, to run the following commands, you need to have <a href='https://nodejs.org/en/' target='_blank'>Node.js</a> installed on your machine.
 
-Instale as dependências do projeto: `npm install`
+Install the project dependencies:
 
-Para rodar o projeto digite o comando: `npm run dev`
+`npm install`
 
-O projeto irá rodar na porta: `5173`
+To start the project, run:
+
+`npm run dev`
+
+The application will run on port: `5173`
